@@ -1,0 +1,14 @@
+{
+  "title": "Computer Science",
+  "text": ".",
+  "short": "",
+  "long": "",
+  "color": "purple-600",
+  
+  "section": {
+    "induction": {
+      "title": "Induction",
+      "text": ""
+    }
+  }
+}
