@@ -1,9 +1,9 @@
 {
   "title": "Computer Science",
-  "text": ".",
+  "text": "An introduction to the science of computation and the power of structured thinking.",
   "short": "",
   "long": "",
-  "color": "purple-600",
+  "color": "light-green-600",
   
   "section": {
     "induction": {
